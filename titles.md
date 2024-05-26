@@ -7,3 +7,4 @@
 * 12 Monkeys
 
 E: Updating titles file
+G: Updating titles file with necessary information
